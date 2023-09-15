@@ -1,4 +1,4 @@
-# translatte
+# trans_latte
 
 - pip install googletrans
 - pip install pyperclip
